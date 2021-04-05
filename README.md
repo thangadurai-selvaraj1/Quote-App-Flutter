@@ -2,12 +2,15 @@
 
 Topics Covered:
 
-Provider
-MVVM
-Api
-Design 
-Reuse Widget
+Provider ,
+MVVM ,
+Api ,
+Design ,
+Reuse Widget ,
 Shimmer
+
+
+
 Share content![Splash Screen](https://user-images.githubusercontent.com/40790801/113588030-42a9bb00-964d-11eb-8572-110fbaa3d729.png)
 ![Loding Dashboard](https://user-images.githubusercontent.com/40790801/113588048-49d0c900-964d-11eb-96a3-1747218b6715.png)
 ![Dashboard](https://user-images.githubusercontent.com/40790801/113588060-4e957d00-964d-11eb-9bc8-ef7ee74e1bff.png)
